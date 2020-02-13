@@ -1,0 +1,424 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 20849,
+      "max": [
+        5.2778100967407227,
+        5.0974698066711426,
+        41.497898101806641
+      ],
+      "min": [
+        -5.3591299057006836,
+        -34.979488372802734,
+        -10.80387020111084
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 250188,
+      "componentType": 5126,
+      "count": 20849,
+      "max": [
+        1,
+        0.99989646673202515,
+        0.99999648332595825
+      ],
+      "min": [
+        -1,
+        -0.99995666742324829,
+        -0.99994426965713501
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 20849,
+      "max": [
+        1,
+        0.99999654293060303,
+        0.9975656270980835,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99994784593582153,
+        -0.99995666742324829,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 20849,
+      "max": [
+        1,
+        0.99694997072219849
+      ],
+      "min": [
+        0.00049000000581145287,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 105660,
+      "max": [
+        20848
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 500376,
+      "componentType": 5126,
+      "count": 1204,
+      "max": [
+        2.3523900508880615,
+        0.67034000158309937,
+        -1.7226799726486206
+      ],
+      "min": [
+        -2.3523900508880615,
+        -1.3278199434280396,
+        -3.7223498821258545
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 514824,
+      "componentType": 5126,
+      "count": 1204,
+      "max": [
+        0.99959743022918701,
+        0.99898719787597656,
+        0.9997742772102356
+      ],
+      "min": [
+        -0.99959743022918701,
+        -0.99898719787597656,
+        -0.9997742772102356
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 333584,
+      "componentType": 5126,
+      "count": 1204,
+      "max": [
+        0.9991152286529541,
+        0.96774429082870483,
+        0.99624723196029663,
+        1
+      ],
+      "min": [
+        -0.9991152286529541,
+        -0.70008367300033569,
+        -0.88168483972549438,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 166792,
+      "componentType": 5126,
+      "count": 1204,
+      "max": [
+        0.96144002676010132,
+        1.0017600059509277
+      ],
+      "min": [
+        0.043790001422166824,
+        -0.0012400000123307109
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 422640,
+      "componentType": 5125,
+      "count": 5760,
+      "max": [
+        1203
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "rhcreations (https://sketchfab.com/rhcreations)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/cat-v10-7239efeec7104dc3af46a8842a66aec0",
+      "title": "Cat v1.0"
+    },
+    "generator": "Sketchfab-7.27.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 445680,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 176424,
+      "byteOffset": 445680,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 529272,
+      "byteOffset": 622104,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 352848,
+      "byteOffset": 1151376,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1504224,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Main_Cat_Material_diffuse.jpeg"
+    },
+    {
+      "uri": "textures/Cat_Eye_Material_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 0,
+            "texCoord": 0
+          },
+          "glossinessFactor": 0.05659298780487805,
+          "specularFactor": [
+            0.013410128653049469,
+            0.013410128653049469,
+            0.013410128653049469
+          ]
+        }
+      },
+      "name": "Main_Cat_Material"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "diffuseTexture": {
+            "index": 1,
+            "texCoord": 0
+          },
+          "glossinessFactor": 1,
+          "specularFactor": [
+            1,
+            1,
+            1
+          ],
+          "specularGlossinessTexture": {
+            "index": 1,
+            "texCoord": 0
+          }
+        }
+      },
+      "name": "Cat_Eye_Material"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cat Eyes_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Root"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        0.46009,
+        0,
+        0,
+        0,
+        0,
+        0.18177000000000001,
+        -0.42266000000000004,
+        0,
+        -0,
+        0.42266000000000004,
+        0.18177000000000001,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Cat"
+    },
+    {
+      "mesh": 0,
+      "name": "Cat_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1.3208800000000001,
+        -0,
+        -0,
+        0,
+        -0,
+        -1.2134199999999997,
+        0.52185000000000004,
+        0,
+        -0,
+        -0.52185000000000004,
+        -1.2134199999999997,
+        0,
+        -0.040660000000000009,
+        -34.324689999999997,
+        -4.4664600000000005,
+        1
+      ],
+      "name": "Cat Eyes"
+    },
+    {
+      "mesh": 1,
+      "name": "Cat Eyes_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
+
